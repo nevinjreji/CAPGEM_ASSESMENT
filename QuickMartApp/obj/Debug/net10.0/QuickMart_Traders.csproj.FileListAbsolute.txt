@@ -1,0 +1,14 @@
+D:\CAPGEMINI\QuickMartApp\bin\Debug\net10.0\QuickMart_Traders.exe
+D:\CAPGEMINI\QuickMartApp\bin\Debug\net10.0\QuickMart_Traders.deps.json
+D:\CAPGEMINI\QuickMartApp\bin\Debug\net10.0\QuickMart_Traders.runtimeconfig.json
+D:\CAPGEMINI\QuickMartApp\bin\Debug\net10.0\QuickMart_Traders.dll
+D:\CAPGEMINI\QuickMartApp\bin\Debug\net10.0\QuickMart_Traders.pdb
+D:\CAPGEMINI\QuickMartApp\obj\Debug\net10.0\QuickMart_Traders.GeneratedMSBuildEditorConfig.editorconfig
+D:\CAPGEMINI\QuickMartApp\obj\Debug\net10.0\QuickMart_Traders.AssemblyInfoInputs.cache
+D:\CAPGEMINI\QuickMartApp\obj\Debug\net10.0\QuickMart_Traders.AssemblyInfo.cs
+D:\CAPGEMINI\QuickMartApp\obj\Debug\net10.0\QuickMart_Traders.csproj.CoreCompileInputs.cache
+D:\CAPGEMINI\QuickMartApp\obj\Debug\net10.0\QuickMart_Traders.dll
+D:\CAPGEMINI\QuickMartApp\obj\Debug\net10.0\refint\QuickMart_Traders.dll
+D:\CAPGEMINI\QuickMartApp\obj\Debug\net10.0\QuickMart_Traders.pdb
+D:\CAPGEMINI\QuickMartApp\obj\Debug\net10.0\QuickMart_Traders.genruntimeconfig.cache
+D:\CAPGEMINI\QuickMartApp\obj\Debug\net10.0\ref\QuickMart_Traders.dll

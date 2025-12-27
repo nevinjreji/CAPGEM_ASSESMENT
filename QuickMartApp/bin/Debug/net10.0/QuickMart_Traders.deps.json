@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "QuickMart_Traders/1.0.0": {
+        "runtime": {
+          "QuickMart_Traders.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QuickMart_Traders/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

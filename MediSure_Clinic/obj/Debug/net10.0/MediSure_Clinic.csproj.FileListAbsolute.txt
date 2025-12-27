@@ -1,0 +1,14 @@
+D:\CAPGEMINI\MediSure_Clinic\bin\Debug\net10.0\MediSure_Clinic.exe
+D:\CAPGEMINI\MediSure_Clinic\bin\Debug\net10.0\MediSure_Clinic.deps.json
+D:\CAPGEMINI\MediSure_Clinic\bin\Debug\net10.0\MediSure_Clinic.runtimeconfig.json
+D:\CAPGEMINI\MediSure_Clinic\bin\Debug\net10.0\MediSure_Clinic.dll
+D:\CAPGEMINI\MediSure_Clinic\bin\Debug\net10.0\MediSure_Clinic.pdb
+D:\CAPGEMINI\MediSure_Clinic\obj\Debug\net10.0\MediSure_Clinic.GeneratedMSBuildEditorConfig.editorconfig
+D:\CAPGEMINI\MediSure_Clinic\obj\Debug\net10.0\MediSure_Clinic.AssemblyInfoInputs.cache
+D:\CAPGEMINI\MediSure_Clinic\obj\Debug\net10.0\MediSure_Clinic.AssemblyInfo.cs
+D:\CAPGEMINI\MediSure_Clinic\obj\Debug\net10.0\MediSure_Clinic.csproj.CoreCompileInputs.cache
+D:\CAPGEMINI\MediSure_Clinic\obj\Debug\net10.0\MediSure_Clinic.dll
+D:\CAPGEMINI\MediSure_Clinic\obj\Debug\net10.0\refint\MediSure_Clinic.dll
+D:\CAPGEMINI\MediSure_Clinic\obj\Debug\net10.0\MediSure_Clinic.pdb
+D:\CAPGEMINI\MediSure_Clinic\obj\Debug\net10.0\MediSure_Clinic.genruntimeconfig.cache
+D:\CAPGEMINI\MediSure_Clinic\obj\Debug\net10.0\ref\MediSure_Clinic.dll
